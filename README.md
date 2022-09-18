@@ -1,4 +1,4 @@
-# Toy Robot Simulator by using C#
+# Toy Robot Simulator by using C# (Seigfred Visitacion)
 
 **Toy Robot Simulator** <br/>
 •The application is a simulation of a toy robot moving on a square tabletop, of dimensions 5 units x 5 units.<br/>
